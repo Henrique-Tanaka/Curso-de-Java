@@ -12,8 +12,8 @@ public class Main{
 		}
 		else {
 			double x1 = (-b + Math.sqrt(delta))/(2*a), x2 = (-b - Math.sqrt(delta))/(2*a);
-			System.out.printf("%.5f%n", x1);
-			System.out.printf("%.5f",x2);
+			System.out.printf("R1 = %.5f%n", x1);
+			System.out.printf("R2 = %.5f",x2);
 		}
 		
 		sc.close();
