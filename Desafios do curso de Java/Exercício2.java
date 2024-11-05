@@ -4,7 +4,7 @@ public class Main{
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Digite as notas:");
+		System.out.println("Digite duas notas:");
 		double A = sc.nextDouble(), B = sc.nextDouble(), C = (A+B)/2;
 		
 		System.out.printf("Primeira nota: %.1f%n", A);
