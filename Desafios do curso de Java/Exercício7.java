@@ -19,7 +19,7 @@ public class Main {
 			x = sc.nextInt(); 
 			y = sc.nextInt();
 		}
-		System.out.println("Finalizado");
+		System.out.println("Encerrado");
 		
 		sc.close();
 	}
