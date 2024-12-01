@@ -1,5 +1,5 @@
-//Este código em Java lê numeros até que um numero negativo seja inserido. 
-//Ele soma todas os numeros válidos (não negativos) e calcula a média desses numeros.
+//Este código lê idades até que uma idade negativa seja inserida. 
+//Soma todas as idades válidas (não negativas) e calcula a média dessas idades.
 import java.util.Scanner;
 import java.util.Locale;
 public class Main{
