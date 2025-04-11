@@ -1,2 +1,2 @@
-# Curso-de-Java
+# Java
 Desafios que fiz no curso.
