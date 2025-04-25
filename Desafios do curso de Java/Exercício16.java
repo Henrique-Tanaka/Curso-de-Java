@@ -16,7 +16,7 @@ public class Main{
 			System.out.printf("Equivalente Fahrenheit: %.1f%n", F);
 			System.out.print("Deseja repitir (s/n)? ");
 			resp = sc.next().charAt(0);
-	  } while (resp != 'n');
+	    } while (resp != 'n');
 		
 		sc.close();
 	}
